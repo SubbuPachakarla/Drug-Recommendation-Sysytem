@@ -9,7 +9,7 @@ This project helps users — especially patients and healthcare providers — ma
 ## 🖼️ Screenshots
 
 ### 🔹 Homepage
-<img src="Drug_Recommendation_System/screenshots/homepage.png" width="800"/>
+<img src="https://github.com/SubbuPachakarla/Drug-Recommendation-Sysytem/blob/main/screen%20shots/home%20page.png" width="800"/>
 
 ### 🔹 Input Form
 <img src="Drug_Recommendation_System/screenshots/prediction_form.png" width="800"/>
