@@ -12,7 +12,7 @@ This project helps users — especially patients and healthcare providers — ma
 <img src="https://github.com/SubbuPachakarla/Drug-Recommendation-Sysytem/blob/main/screen%20shots/home%20page.png" width="800"/>
 
 ### 🔹 Input Form
-<img src="Drug_Recommendation_System/screenshots/prediction_form.png" width="800"/>
+<img src="https://github.com/SubbuPachakarla/Drug-Recommendation-Sysytem/blob/main/screen%20shots/prediction.png" width="800"/>
 
 ### 🔹 Recommendation Result
 <img src="Drug_Recommendation_System/screenshots/result_output.png" width="800"/>
