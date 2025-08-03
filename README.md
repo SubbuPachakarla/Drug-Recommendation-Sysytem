@@ -62,6 +62,7 @@ Or click below:
 ## 📁 Folder Structure
 
 Drug_Recommendation_System/
+
 ├── app/ # Django app
 ├── Drug_Recommendation_System/ # Project settings
 ├── models/ # Trained ML models
