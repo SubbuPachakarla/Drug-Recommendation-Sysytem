@@ -64,13 +64,21 @@ Or click below:
 Drug_Recommendation_System/
 
 ├── app/ # Django app
+
 ├── Drug_Recommendation_System/ # Project settings
+
 ├── models/ # Trained ML models
+
 ├── static/ # CSS, JS, images
+
 ├── templates/ # HTML templates
+
 ├── screenshots/ # Project screenshots
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 
